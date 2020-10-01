@@ -1,6 +1,16 @@
 {
   "content": [
     {
+      "path": "ContentInfo/brainshot-sadp-elpalomar/Thumbnail.jpg",
+      "size": 24442,
+      "date": 132460384104122584
+    },
+    {
+      "path": "manifest.json",
+      "size": 364,
+      "date": 132460352170158342
+    },
+    {
       "path": "scenery/world/scenery/AIRPORT POLYGON.BGL",
       "size": 1286,
       "date": 132460352169779126

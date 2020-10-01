@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/brainshot-sabe-aeroparque/Thumbnail.jpg",
+      "size": 24442,
+      "date": 132460384104122584
+    },
+    {
+      "path": "scenery/world/scenery/SABE-Aeroparque.bgl",
+      "size": 1706,
+      "date": 132460404801122057
+    },
+    {
+      "path": "scenery/world/scenery/SABE-POLYGON.BGL",
+      "size": 970,
+      "date": 132460404801211922
+    }
+  ]
+}

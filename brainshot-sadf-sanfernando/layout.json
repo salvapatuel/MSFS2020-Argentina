@@ -1,6 +1,16 @@
 {
   "content": [
     {
+      "path": "ContentInfo/brainshot-sadf-sanfernando/Thumbnail.jpg",
+      "size": 24442,
+      "date": 132460384104122584
+    },
+    {
+      "path": "manifest.json",
+      "size": 353,
+      "date": 132460352995665175
+    },
+    {
       "path": "scenery/world/scenery/SADF-POLIGONS.BGL",
       "size": 2572,
       "date": 132460352805968971
