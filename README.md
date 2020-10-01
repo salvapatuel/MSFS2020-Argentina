@@ -22,3 +22,8 @@ SADP V1.0.0
 SADF v1.0.0
 - Improved the runway, adding lights and VASI
 - Added Airport lights and lamp masts, otherwise it feels too ghosty
+
+SABE v1.0.0
+- Removed Forest from Airport
+- Added Lights to the Apron
+- Added Tarmac to some of the parking positions that were starting on the grass
