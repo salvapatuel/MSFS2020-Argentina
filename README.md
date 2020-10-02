@@ -15,7 +15,7 @@ Para Instalar:
 Change Log:
 -------------------------------------------------------------------------------------------------------------------------
 
-SADP V1.0.0
+SADP V1.0.1
 - First Release, known issues, taxiway lights, this is an issue in the editor, I hope they fix this on the next release
 - I rebuild the full airport as it was broken in the default version
 
