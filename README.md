@@ -15,7 +15,7 @@ Para Instalar:
 Change Log:
 -------------------------------------------------------------------------------------------------------------------------
 
-SADP V1.0.1
+SADP V1.1.0
 - First Release, known issues, taxiway lights, this is an issue in the editor, I hope they fix this on the next release
 - I rebuild the full airport as it was broken in the default version
 
@@ -23,6 +23,7 @@ SADF
 v1.5.0
 - All new taxiways and Apron
 - Fixed Control Tower
+- Removed duplicated runway
 
 v1.0.0
 - Improved the runway, adding lights and VASI
