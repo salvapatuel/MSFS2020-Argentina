@@ -14,6 +14,10 @@ Para Instalar:
 
 Change Log:
 -------------------------------------------------------------------------------------------------------------------------
+SAAV v1.0.0
+- Removed forest on approach
+- Added right approach lights
+- Improved Taxiways and Apron
 
 SADP V1.1.0
 - First Release, known issues, taxiway lights, this is an issue in the editor, I hope they fix this on the next release
