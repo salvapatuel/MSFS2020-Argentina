@@ -14,23 +14,24 @@ Para Instalar:
 
 Change Log:
 -------------------------------------------------------------------------------------------------------------------------
+SAAV v1.0
+- Removed forest on approach
+- Added right approach lights
+- Improved Taxiways and Apron
 
-SADP V1.1.0
+SADP v1.0
 - First Release, known issues, taxiway lights, this is an issue in the editor, I hope they fix this on the next release
 - I rebuild the full airport as it was broken in the default version
 
-SADF 
-v1.5.0
+SADF v1.5
 - All new taxiways and Apron
 - Fixed Control Tower
 - Removed duplicated runway
-
-v1.0.0
 - Improved the runway, adding lights and VASI
 - Added Airport lights and lamp masts, otherwise it feels too ghosty
-
 
 SABE v1.0.0
 - Removed Forest from Airport
 - Added Lights to the Apron
 - Added Tarmac to some of the parking positions that were starting on the grass
+
