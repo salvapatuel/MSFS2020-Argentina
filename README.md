@@ -1,6 +1,6 @@
 # MSFS2020 - Argentina
 Scenaries for MSFS 2020 - Argentina
-Community project to improve the default airports of Argentina
+Community project to improve the default airports of Argentina. Let me know if you want a specific airport, otherwise I just hop around based on OnAir assignments and fix them every time I land on them.
 
 To Install:
 1) Download the latest releases
