@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/brainshot-same-el-plumerillo/Thumbnail.jpg",
+      "size": 24442,
+      "date": 132460384104122584
+    },
+    {
+      "path": "manifest.json",
+      "size": 352,
+      "date": 132462969698002407
+    },
+    {
+      "path": "scenery/world/scenery/Airport.bgl",
+      "size": 14488,
+      "date": 132462981490594382
+    },
+    {
+      "path": "scenery/world/scenery/POLYGONS.BGL",
+      "size": 1285,
+      "date": 132462981490714061
+    }
+  ]
+}
