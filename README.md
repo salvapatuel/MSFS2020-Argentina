@@ -35,3 +35,6 @@ SABE v1.0.0
 - Added Lights to the Apron
 - Added Tarmac to some of the parking positions that were starting on the grass
 
+SAME v1.0
+- Added taxiways and apron
+- Added parking spots, ligthing and taxysigns
