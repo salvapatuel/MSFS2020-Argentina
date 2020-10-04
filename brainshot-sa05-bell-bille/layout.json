@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/brainshot-sa05-bell-bille/Thumbnail.jpg",
+      "size": 24442,
+      "date": 132460384104122584
+    },
+    {
+      "path": "manifest.json",
+      "size": 348,
+      "date": 132463167606658286
+    },
+    {
+      "path": "scenery/world/scenery/Airport.bgl",
+      "size": 1343,
+      "date": 132463173485768905
+    },
+    {
+      "path": "scenery/world/scenery/POLYGON.BGL",
+      "size": 920,
+      "date": 132463107551355993
+    }
+  ]
+}
