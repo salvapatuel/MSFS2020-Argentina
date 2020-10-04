@@ -38,3 +38,11 @@ SABE v1.0.0
 SAME v1.0
 - Added taxiways and apron
 - Added parking spots, ligthing and taxysigns
+
+SAOS v1.0
+- Improved runway, added Runway lights
+- Created realistic taxiways and parking positions
+
+SA05/BEL v1.0
+- Removed duplicated runway and improved textures and materials
+- Added right taxiway
