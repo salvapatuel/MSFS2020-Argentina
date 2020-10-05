@@ -1,6 +1,6 @@
 # MSFS2020 - Argentina
 Scenaries for MSFS 2020 - Argentina
-Community project to improve the default airports of Argentina
+Community project to improve the default airports of Argentina. Let me know if you want a specific airport, otherwise I just hop around based on OnAir assignments and fix them every time I land on them.
 
 To Install:
 1) Download the latest releases
@@ -38,3 +38,11 @@ SABE v1.0.0
 SAME v1.0
 - Added taxiways and apron
 - Added parking spots, ligthing and taxysigns
+
+SAOS v1.0
+- Improved runway, added Runway lights
+- Created realistic taxiways and parking positions
+
+SA05/BEL v1.0
+- Removed duplicated runway and improved textures and materials
+- Added right taxiway
