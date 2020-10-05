@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/brainshot-sadj-mariano-moreno/Thumbnail.jpg",
+      "size": 24442,
+      "date": 132460384104122584
+    },
+    {
+      "path": "manifest.json",
+      "size": 355,
+      "date": 132463778889509599
+    },
+    {
+      "path": "scenery/Airport.bgl",
+      "size": 4808,
+      "date": 132463786354680447
+    },
+    {
+      "path": "scenery/POLYGON.BGL",
+      "size": 927,
+      "date": 132463786354770485
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/brainshot-saar-islas-malvinas/Thumbnail.jpg",
+      "size": 24442,
+      "date": 132460384104122584
+    },
+    {
+      "path": "manifest.json",
+      "size": 348,
+      "date": 132464030353817141
+    },
+    {
+      "path": "scenery/world/scenery/Airport.bgl",
+      "size": 6304,
+      "date": 132464045634065343
+    },
+    {
+      "path": "scenery/world/scenery/POLYGON.BGL",
+      "size": 1128,
+      "date": 132464045634190728
+    }
+  ]
+}
