@@ -46,3 +46,9 @@ SAOS v1.0
 SA05/BEL v1.0
 - Removed duplicated runway and improved textures and materials
 - Added right taxiway
+
+SADJ v1.0
+- New runway, new apron and taxiways
+
+SAAR v1.0
+- New runway, new apron and taxiways
