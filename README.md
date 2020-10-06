@@ -52,3 +52,9 @@ SADJ v1.0
 
 SAAR v1.0
 - New runway, new apron and taxiways
+
+SAZB v1.0
+- New runway, new apron and taxiways
+
+SAZH v1.0
+New runway, new apron and taxiways
