@@ -1,13 +1,13 @@
 {
   "dependencies": [],
   "content_type": "SCENERY",
-  "title": "Antoine de Saint Exupery",
+  "title": "Olavarria",
   "manufacturer": "Brainshot",
   "creator": "Brainshot",
   "package_version": "1.0.0",
-  "release_notes": {
+    "release_notes": {
     "neutral": {
-      "LastUpdate": "VERSION 1.0.0 RELEASED JANUARY 1, 0\\n",
+      "LastUpdate": "",
       "OlderHistory": ""
     }
   }
