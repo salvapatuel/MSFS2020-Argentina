@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/brainshot-termas-de-rio-hondo/Thumbnail.jpg",
+      "size": 24442,
+      "date": 132460384104122584
+    },
+    {
+      "path": "manifest.json",
+      "size": 307,
+      "date": 132477035519807478
+    },
+    {
+      "path": "scenery/world/scenery/SANR Airport.bgl",
+      "size": 32369,
+      "date": 132477040895083070
+    },
+    {
+      "path": "scenery/world/scenery/SANR POLYGON.BGL",
+      "size": 948,
+      "date": 132477035519416670
+    }
+  ]
+}

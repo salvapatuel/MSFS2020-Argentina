@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/brainshot-saoc-area-de-materiales/Thumbnail.jpg",
+      "size": 24442,
+      "date": 132460384104122584
+    },
+    {
+      "path": "manifest.json",
+      "size": 344,
+      "date": 132476930197606638
+    },
+    {
+      "path": "scenery/Airport.bgl",
+      "size": 24158,
+      "date": 132476939065773104
+    },
+    {
+      "path": "scenery/POLYGON.BGL",
+      "size": 1325,
+      "date": 132476930197221764
+    }
+  ]
+}

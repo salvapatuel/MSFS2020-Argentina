@@ -6,14 +6,29 @@
       "date": 132460384104122584
     },
     {
+      "path": "manifest.json",
+      "size": 297,
+      "date": 132471670141352140
+    },
+    {
+      "path": "scenery/Airport.bgl",
+      "size": 8825,
+      "date": 132476941723788815
+    },
+    {
+      "path": "scenery/POLYGON.BGL",
+      "size": 1171,
+      "date": 132476941723928441
+    },
+    {
       "path": "scenery/world/scenery/Airport.bgl",
-      "size": 7791,
-      "date": 132466476107682627
+      "size": 8825,
+      "date": 132471670140971889
     },
     {
       "path": "scenery/world/scenery/POLYGON.BGL",
-      "size": 905,
-      "date": 132466476107762412
+      "size": 1171,
+      "date": 132471659239377281
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/brainshot-sant-tucuman/Thumbnail.jpg",
+      "size": 24442,
+      "date": 132460384104122584
+    },
+    {
+      "path": "manifest.json",
+      "size": 295,
+      "date": 132477793992088490
+    },
+    {
+      "path": "scenery/SANT Airport.bgl",
+      "size": 9966,
+      "date": 132477817326065668
+    },
+    {
+      "path": "scenery/SANT PLOYGON.BGL",
+      "size": 941,
+      "date": 132477793991699521
+    }
+  ]
+}
