@@ -2,6 +2,9 @@
 Scenaries for MSFS 2020 - Argentina
 Community project to improve the default airports of Argentina. Let me know if you want a specific airport, otherwise I just hop around based on OnAir assignments and fix them every time I land on them.
 
+If you want also the aereals please use this link:
+https://flightsim.to/file/1221/argentina
+
 To Install:
 1) Download the latest releases
 2) Copy the Airport folder that you want into the COMMUNITY folder or your MSFS2020 Installation
@@ -61,3 +64,15 @@ SAZH v1.0
 
 SAVN v1.0
 -New runway, new apron and taxiways
+
+SAZF v1.0
+- new airport
+
+SANT v1.0
+- new airport
+
+SANR v1.0
+- new airport
+
+SAOC v1.0
+- new airport
