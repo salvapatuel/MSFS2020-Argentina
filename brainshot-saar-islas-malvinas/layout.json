@@ -6,14 +6,19 @@
       "date": 132460384104122584
     },
     {
+      "path": "manifest.json",
+      "size": 310,
+      "date": 132476164006157976
+    },
+    {
       "path": "scenery/wolrd/scenery/Airport.bgl",
-      "size": 6608,
-      "date": 132476164005599486
+      "size": 7548,
+      "date": 132478741509818199
     },
     {
       "path": "scenery/wolrd/scenery/POLYGON.BGL",
-      "size": 1322,
-      "date": 132476164005749072
+      "size": 1554,
+      "date": 132478741509988019
     }
   ]
 }
